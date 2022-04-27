@@ -8,7 +8,7 @@ Terraform scripts to demonstrate integrating cloud environments with the Lacewor
 ### What you need
  - Install and Configure the [Lacework CLI](https://docs.lacework.com/cli/)
  - 2 or more AWS Accounts
- - Install [Terraform] (https://www.terraform.io/downloads)  
+ - Install [Terraform](https://www.terraform.io/downloads)  
  - Install the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
  - A code editor (VS Code, Atom, Notepad...tee hee, etc.)
  - Clone this repo
