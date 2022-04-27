@@ -36,13 +36,15 @@ aws_secret_access_key = ThisStringIs40CharctersLongWhichIsLonger
 
 From within the ../terraform/aws/ directory
 
-`terraform init`
+```terraform init```
 
-`terraform validate`
+```terraform validate```
 
-`terraform plan`
+```terraform plan```
 
-`terraform apply -auto-approve`
+If all looks good...
+
+```terraform apply -auto-approve```
 
 ### Check the Lacework UI
 
