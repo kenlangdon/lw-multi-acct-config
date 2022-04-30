@@ -6,6 +6,7 @@
 Terraform scripts to demonstrate integrating cloud environments with the Lacework Polygraph Data Platform for configuration and compliance (agentless deployment)
 
 ### What you need
+ - Create 3 AWS accounts using the [Instruqt](https://play.instruqt.com/lacework/tracks/aws-multi-account-lab) module. (You may need access)
  - Install and Configure the [Lacework CLI](https://docs.lacework.com/cli/)
  - 2 or more AWS Accounts
  - Install [Terraform](https://www.terraform.io/downloads)  
