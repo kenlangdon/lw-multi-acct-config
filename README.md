@@ -13,6 +13,7 @@ Terraform scripts to demonstrate integrating cloud environments with the Lacewor
  - A code editor (VS Code, Atom, Notepad...tee hee, etc.)
  - Clone this repo
  - Optionally: install [tfswitch](https://tfswitch.warrensbox.com/Install/)
+ - Note: Terraform v0.13.0 is in use for this repo
 
 ### Setup
 
